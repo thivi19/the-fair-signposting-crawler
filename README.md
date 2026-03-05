@@ -1,4 +1,4 @@
-# The-Fair-Signposting-Crawler
+# the-fair-signposting-crawler
 https://doi.org/10.5281/zenodo.15059449
 # The FAIR Signposting Crawler
 A web-based tool for crawling and analysing linked data resources that follow FAIR (Findable, Accessible, Interoperable, Reusable) principles through Signposting links and other RDF discovery mechanisms.
