@@ -23,7 +23,7 @@ Signposting is a simple approach to make navigational links explicit for machine
 - Required Python packages (see requirements.txt)
 
 ### Setup Instructions:
-1. Clone the repository: git clone https://github.com/thivi19/third-year-project.git
+1. Clone the repository: git clone https://github.com/thivi19/the-fair-signposting-crawler
 2. Install required packages: pip install -r requirements.txt
 3. Set up Apache Jena Fuseki: Follow the instructions in the Fuseki documentation
 4. Start Fuseki and create a dataset named knowledge_graph (or update the configuration to use a different dataset name)
